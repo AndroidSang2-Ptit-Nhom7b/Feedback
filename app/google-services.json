@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "431291397434",
+    "firebase_url": "https://aiai-d421d.firebaseio.com",
+    "project_id": "aiai-d421d",
+    "storage_bucket": "aiai-d421d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431291397434:android:1744267c18b81df9",
+        "android_client_info": {
+          "package_name": "com.example.aipham.vietlai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431291397434-i27bvejvh22rf9kh04amvjcc6k3c3htc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqCWjyAq7e9r3KjxTy5qYlo9R_V-NKeM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
